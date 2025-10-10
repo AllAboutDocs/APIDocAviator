@@ -12,20 +12,16 @@ content_markdown: |-
   Update an existing book in your collection.
 left_code_blocks:
   - code_block: |-
-      $.ajax({
-        "url": "http://api.myapp.com/books/3",
-        "type": "PUT",
-        "data": {
-          "token": "YOUR_APP_KEY",
-          "score": 5.0,
-          "title": "The Book Stealer"
-        },
-        "success": function(data) {
-          alert(data);
-        }
-      });
-    title: jQuery
-    language: javascript
+      {
+      "type": "full",
+      "owner" {
+      "type": "User"
+      "id": "0f5ly1v7p3gqj5ii56e6k6q61x"
+      "externalId": "unique-customer-code"
+      }
+      }
+    title: Request
+    language: json
 right_code_blocks:
   - code_block: |2-
       {
