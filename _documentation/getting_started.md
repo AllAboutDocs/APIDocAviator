@@ -5,11 +5,11 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  Welcome to our API.
+  The document is aimed to assist third parties to integrate with the new API Service which is not only third party-agnostic but also easily integrable as a standalone service or in combination with other Docs offerings.  
 
-  This API document is designed for those interested in developing for our platform.
+  The Global Docs Service now has a new Global Docs API Gateway which decouples Docs features from all architectural and service dependencies associated with other Fintech offerings.
 
-  This API is still under development and will evolve.
+  This can be utilized when third parties want to integrate only with Docs and not update/ Fraud services or in combination with them.
 
   You'll succeed if you do this.
   {: .success }
