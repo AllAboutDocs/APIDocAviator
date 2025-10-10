@@ -17,8 +17,8 @@ collections:
   documentation:
     title: Documentation
     position_number: 1
-  api:
-    title: APIs
+  docs_creation_management:
+    title: Docs Creation and Management APIs
     position_number: 2
 plugins:
   - jekyll-sitemap
