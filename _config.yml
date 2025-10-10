@@ -29,19 +29,16 @@ exclude:
   - LICENSE
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: default
-  -
-    scope:
+  - scope:
       type: "documentation"
     values:
       _hide_content: true
-  -
-    scope:
-      type: "api"
+  - scope:
+      type: "docs_creation_management"
     values:
       _hide_content: true
 
