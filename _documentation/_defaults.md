@@ -1,7 +1,6 @@
 ---
 title:
 position_number:
-content_markdown:
 parameters:
   - name:
     content:
