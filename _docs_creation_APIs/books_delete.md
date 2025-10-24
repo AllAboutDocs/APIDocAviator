@@ -1,5 +1,5 @@
 ---
-title: /books/:id
+title: /docs/:id
 position_number: 1.5
 type: delete
 description: Deletes a book
@@ -38,4 +38,3 @@ right_code_blocks:
     title: Error
     language: json
 ---
-
