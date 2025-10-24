@@ -1,7 +1,7 @@
 ---
 title: /docs/:id
 position_number: 1.1
-type: patch
+type: put
 description: Update Doc
 parameters:
   - name: id*
