@@ -1,6 +1,10 @@
 name: Vale Lint
 
 on:
+  push:
+    paths:
+      - "_documentation/**/*.md"
+      - "_docs_creation_APIs/**/*.md"
   pull_request:
     paths:
       - "_documentation/**/*.md"
