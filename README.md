@@ -1,15 +1,4 @@
-# Aviator [ LEGACY TEMPLATE NO LONGER MAINTAINED ]
-
-API documentation template for Jekyll. Browse through a [live demo](https://tangerine-lemon.cloudvent.net/).
-Start documenting your API with this configurable theme.
-
-![Aviator template screenshot](images/_screenshot.png)
-
-Aviator was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/aviator-jekyll-template)
+This is a developer documentation project that I have created with sample and sanitized text content to replicate a standard API Integration Guide. The main purpose of creating this repository is to experiment with the Aviator Jekyll template which is built with a 3 pane layout. I now forked this template and added custom content to it. 
 
 ## Features
 
@@ -18,9 +7,6 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * Full text search
 * Pre-styled components
 * Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
 
 ## Setup
 
