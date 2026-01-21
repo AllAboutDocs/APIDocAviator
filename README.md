@@ -1,3 +1,5 @@
+# Global Doc API Service Integration Guide
+
 This is a developer documentation project that I have created with sample and sanitized text content to replicate a standard API Integration Guide. The main purpose of creating this repository is to experiment with the Aviator Jekyll template which is built with a 3 pane layout. I now forked this template and added custom content to it. 
 
 ## Features
